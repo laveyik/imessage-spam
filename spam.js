@@ -5,6 +5,8 @@ love
 u
 like
 pizza loves cheese.
+Spasi
+
 `;
 
-spammer('Ragil Ramadhan', message);
+spammer('Laveyik', message);
